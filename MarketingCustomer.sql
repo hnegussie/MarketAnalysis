@@ -1,3 +1,4 @@
+--new item
 CREATE TABLE customer (
 	Customer VARCHAR,
 	State VARCHAR,
